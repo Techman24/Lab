@@ -13,9 +13,11 @@ public class Main {
         int i = 0;
         String hexDigits = "0123456789ABCDEF";
 
-        //while (testNumber > 0 && testNumber<8){
+        // There has been changes made towards this file for Lab#5//
+        // The change has been commited//
+        // :) //
 
-        //System.out.println("Test " + testNumber + ":");
+
         System.out.println("Enter a hexadecimal number: ");
         originalHexa = scanner.nextLine();
         originalHexa = originalHexa.toUpperCase();
@@ -60,4 +62,4 @@ public class Main {
 
     //}
 }
-Lab #4
+New Lab#4
